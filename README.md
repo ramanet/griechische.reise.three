@@ -1,2 +1,2 @@
 # griechische.reise.three
-Info to be completed.
+Info for public usage to be completed.
