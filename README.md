@@ -1,2 +1,2 @@
 # griechische.reise.three
-Info for public usage to be completed.
+Information for public usage of the text to be added ... or not.
